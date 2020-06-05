@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # Sprint Challenge Files
+dir_to_ignore/U4S1\ Sprint\ Challenge
 LS_DS_415_Sprint_Challenge.ipynb
 review_sample.json
