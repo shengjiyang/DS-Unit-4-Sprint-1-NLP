@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Sprint Challenge Files
+LS_DS_415_Sprint_Challenge.ipynb
+review_sample.json
